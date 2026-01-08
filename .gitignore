@@ -2,3 +2,10 @@
 __pycache__/
 *.pyc
 data/*.csv
+data/
+*.csv
+*.zip
+*.pkl
+*.h5
+_pycache_/
+.env
