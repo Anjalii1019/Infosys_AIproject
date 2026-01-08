@@ -8,4 +8,4 @@ data/
 *.pkl
 *.h5
 _pycache_/
-.env
+.envdata/user_item_matrix.csv
